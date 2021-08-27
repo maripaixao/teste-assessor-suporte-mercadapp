@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <ID>1</ID>
+       <COD_BARRA>7895800151570</COD_BARRA>
+       <COD_INTERNO>711</COD_INTERNO>
+       <PRECO>4.5</PRECO>
+       <ESTOQUE>12</ESTOQUE>
+    </row>
+    <row>
+       <ID>2</ID>
+       <COD_BARRA>7622300119621</COD_BARRA>
+       <COD_INTERNO>16</COD_INTERNO>
+       <PRECO>6.7</PRECO>
+       <ESTOQUE>59</ESTOQUE>
+    </row>
+    <row>
+       <ID>3</ID>
+       <COD_BARRA>7896480621452</COD_BARRA>
+       <COD_INTERNO>19</COD_INTERNO>
+       <PRECO>1.2</PRECO>
+       <ESTOQUE>32</ESTOQUE>
+    </row>
+    <row>
+       <ID>4</ID>
+       <COD_BARRA>7798018850566</COD_BARRA>
+       <COD_INTERNO>22</COD_INTERNO>
+       <PRECO>9.5</PRECO>
+       <ESTOQUE>45</ESTOQUE>
+    </row>
+    <row>
+       <ID>5</ID>
+       <COD_BARRA>7898409950018</COD_BARRA>
+       <COD_INTERNO>24</COD_INTERNO>
+       <PRECO>0.6</PRECO>
+       <ESTOQUE>34</ESTOQUE>
+    </row>
+</items>

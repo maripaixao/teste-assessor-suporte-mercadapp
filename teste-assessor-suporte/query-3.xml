@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <COD_BARRA>7895800151570</COD_BARRA>
+       <DESCRICAO>PRODUTO 01</DESCRICAO>
+       <PRECO>4.5</PRECO>
+       <ESTOQUE>12</ESTOQUE>
+    </row>
+    <row>
+       <COD_BARRA>7622300119621</COD_BARRA>
+       <DESCRICAO>PRODUTO 02</DESCRICAO>
+       <PRECO>6.7</PRECO>
+       <ESTOQUE>59</ESTOQUE>
+    </row>
+    <row>
+       <COD_BARRA>7896480621452</COD_BARRA>
+       <DESCRICAO>PRODUTO 03</DESCRICAO>
+       <PRECO>1.2</PRECO>
+       <ESTOQUE>32</ESTOQUE>
+    </row>
+    <row>
+       <COD_BARRA>7798018850566</COD_BARRA>
+       <DESCRICAO>PRODUTO 04</DESCRICAO>
+       <PRECO>9.5</PRECO>
+       <ESTOQUE>45</ESTOQUE>
+    </row>
+    <row>
+       <COD_BARRA>7898409950018</COD_BARRA>
+       <DESCRICAO>PRODUTO 05</DESCRICAO>
+       <PRECO>0.6</PRECO>
+       <ESTOQUE>34</ESTOQUE>
+    </row>
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <ID>2</ID>
+       <COD_BARRA>7622300119621</COD_BARRA>
+       <COD_INTERNO>16</COD_INTERNO>
+       <PRECO>6.7</PRECO>
+       <ESTOQUE>59</ESTOQUE>
+    </row>
+</items>
